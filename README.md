@@ -1,4 +1,5 @@
 # Busy-Time
+
 def print_shape():
     shape_char = ' *'
 
